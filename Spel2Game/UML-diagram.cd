@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Spel2Game.AnimatedObject" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAgAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>AnimatedObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.GameObject" Collapsed="true">
+    <Position X="6" Y="6.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAgAAAgAAAAgAAAAAAAAAAYAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.PhysicalObject" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAAAAAAADBAAAAgAAAAAAAAAAMAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Animation" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAyAAQAAAAAAAgAAAAABAAABAABAAIAAAIAgAAAAABA=</HashCode>
+      <FileName>Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Background" Collapsed="true">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.BackgroundSprite" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackgroundSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Camera" Collapsed="true">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Enemy" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Flag" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.GameElements" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Spel2Game.GameElements.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameElements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QIYUAogYoTKDDRAjAgIAEQAVBCMgFyAJQEAgAAQEYAY=</HashCode>
+      <FileName>GameElements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Healthbar" Collapsed="true">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAAAAAAAASAAAAAEBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Healthbar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Kaiba" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACQAAAgAAAAgAAAAIAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Kaiba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Menu" Collapsed="true">
+    <Position X="9.75" Y="6" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.MenuItem" Collapsed="true">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAgAAQAAgEAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Minecraft" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAACAgAgAAAAAAAAABAgAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Minecraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.MovingObject" Collapsed="true">
+    <Position X="4.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Player" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAQAAAAAAoEGBgZAAAoAAAQgAAAAAAAAAgAgkAIAACA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Projectile" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.SpecialAttack" Collapsed="true">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAEAAAAAAAAAAAAAAAIAACggAAAAAAAAAA=</HashCode>
+      <FileName>SpecialAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Spike" Collapsed="true">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Spike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.Terrain" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Terrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.HSItem" Collapsed="true">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>TimerScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spel2Game.TimerScore" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAgKgCAAAAIAAASAAAAAAAkAAAAQAAAAAAAEAA=</HashCode>
+      <FileName>TimerScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

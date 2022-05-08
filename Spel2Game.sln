@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spel2Game", "Spel2Game\Spel2Game.csproj", "{705C5A5B-E82F-45AE-A83C-08F36400AF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705C5A5B-E82F-45AE-A83C-08F36400AF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705C5A5B-E82F-45AE-A83C-08F36400AF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705C5A5B-E82F-45AE-A83C-08F36400AF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705C5A5B-E82F-45AE-A83C-08F36400AF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4AF9F7-C208-485A-949A-52C078E53D1C}
+	EndGlobalSection
+EndGlobal
